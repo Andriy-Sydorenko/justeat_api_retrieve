@@ -1,6 +1,6 @@
 # Retrieving info of British restaurants by postcode
 
-*Python package that allows to extract information about restaurants in Britain url.*
+*Python package that allows to extract information about restaurants in Britain by url.*
 
 ## Usage
 
